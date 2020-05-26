@@ -1,0 +1,23 @@
+{
+  "name": "microservice-ecr",
+  "version": "1.0.0",
+  "description": "node simple microservice with continuous deployment using github actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HabRonan/node-microservice.git"
+  },
+  "keywords": [
+    "ecr"
+  ],
+  "author": "h. abere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HabRonan/node-microservice/issues"
+  },
+  "homepage": "https://github.com/HabRonan/node-microservice#readme"
+}
